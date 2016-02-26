@@ -20,6 +20,8 @@
 <%--Sign Up link header--%>
 <p id="SignUpLink"></p>
 
+<a href="./HelloWorld?id=${urlID}"> click me</a>
+
 <script>
 	<%--Sign Up redirect--%>
 	var SignUp = "Sign Up";

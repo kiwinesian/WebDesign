@@ -51,6 +51,8 @@ public class HelloWorld extends HttpServlet {
                     "</font></body> \n" +
                   "</html>" 
         );  
+        String URL = "ClientSignUp.jsp";
+        request.setAttribute("urlID",URL);
 	}
 
 	/**
