@@ -14,6 +14,7 @@
 <form name="UserLogin" action="HelloWorldServlet" onsubmit="return ValidateForm()" method="post">
 	Email Address: <input type="text" name="EmailAddress"><br>
 	Password: <input type="text" name="Password"><br>
+	Test: <input type="text" name="Test"><br>
 	<input type="submit" value="Submit">
 </form>
 
