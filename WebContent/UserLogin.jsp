@@ -18,7 +18,7 @@
 </form>
 
 <%--Sign Up link header--%>
-<p id="SignUpLink"></p>
+<p id=SignUp></p>
 
 <script>
 	<%--Sign Up redirect--%>
